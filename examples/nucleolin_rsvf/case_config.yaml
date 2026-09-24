@@ -16,5 +16,5 @@ min_component_residues: 5
 chai_version: 0.6.1
 chai_poses: 5
 chai_seed_for_rerun: 42
-status: exact_manuscript_input
-note: Exact RSV F target sequence supplied for the manuscript Chai-1 case study.
+status: manuscript_case_input
+note: Protein sequences and analysis parameters correspond to the manuscript case study. Exact numerical reproduction of historical inference outputs is not guaranteed because model inference may depend on stochastic sampling and the computational environment.
