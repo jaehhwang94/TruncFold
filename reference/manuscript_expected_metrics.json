@@ -1,0 +1,12 @@
+{
+  "plddt_pass": 83,
+  "complete_chai_inputs": 82,
+  "attempted_poses": 410,
+  "accepted_poses": 318,
+  "ranked_variants": 81,
+  "unranked_variant": "v0280",
+  "prior_df": 1.9935048240787294,
+  "prior_variance": 0.9184039680523629,
+  "prior_sd": 0.9583339543459591,
+  "prior_constructs": 78
+}

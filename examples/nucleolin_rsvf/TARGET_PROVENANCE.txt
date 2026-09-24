@@ -1,0 +1,7 @@
+Example target input
+Source entry: 8DZW_1
+Chains: A, B, C
+Protein: RSV fusion protein
+Virus: Human respiratory syncytial virus A2 (11259)
+Sequence length: 484 aa
+Chai-1 target copies: 3

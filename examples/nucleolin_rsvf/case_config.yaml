@@ -1,0 +1,20 @@
+case: nucleolin_RBD12_vs_RSV_F
+parent_file: parent_nucleolin_RBD12_2KRR_174aa.fasta
+parent_length_aa: 174
+target_file: target_RSV_F_8DZW_484aa.fasta
+target_source_structure: PDB_8DZW
+target_source_entry: 8DZW_1
+target_source_chains: [A, B, C]
+target_sequence_length_aa: 484
+target_copies: 3
+truncation_step_aa: 5
+max_n_cut_aa: 80
+max_c_cut_aa: 80
+minimum_length_aa: 50
+mean_plddt_threshold: 0.80
+min_component_residues: 5
+chai_version: 0.6.1
+chai_poses: 5
+chai_seed_for_rerun: 42
+status: exact_manuscript_input
+note: Exact RSV F target sequence supplied for the manuscript Chai-1 case study.
