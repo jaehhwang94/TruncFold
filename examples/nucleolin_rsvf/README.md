@@ -13,6 +13,9 @@ Run after creating the three environments:
 The final table is `examples/nucleolin_rsvf/results/analysis/truncfold_ranking.csv`.
 
 Provenance: see [TARGET_PROVENANCE.txt](TARGET_PROVENANCE.txt). The supplied
-input and seed have not been established as identical to those used in the
-historical manuscript run. Reference metrics are archived comparison values;
-exact reproduction of those values is not asserted for this example.
+protein sequences and analysis parameters correspond to the manuscript case
+study. Because structural inference may depend on stochastic sampling and the
+computational environment, reruns are not expected to reproduce all historical
+inference outputs identically. The archived manuscript metrics are therefore
+provided as reference values for comparison rather than as requirements for
+bitwise-identical reproduction.
